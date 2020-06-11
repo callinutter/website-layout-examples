@@ -1,0 +1,43 @@
+nav a {
+    margin-left: .5rem;
+}
+
+a.nav-link {
+    margin-left: 12rem;
+}
+
+div h1 {
+    text-align: center;
+    margin: 5rem auto 3rem auto;
+}
+
+div p {
+    text-align: center;
+}
+
+img {
+    opacity: 50%;
+}
+
+h5, p {
+    color: black;
+}
+
+.middle-container {
+    margin-top: 5rem;
+}
+
+.card-img {
+    height: 250px;
+    opacity: 40%;
+}
+
+.card-title, .card-text {
+    color: white;
+    text-align: left;
+}
+
+.card-text {
+    margin-top: 3rem;
+}
+
